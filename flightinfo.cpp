@@ -32,7 +32,7 @@ flightInfo::flightInfo(QWidget *parent) :
     //  EXAMPLE 1
     //  this is a Flight Information Display System(FIDS) demo screen made by fids3.com,
     //  in their website they have a few other options
-    ui->webView_2->load(QUrl("http://217.160.92.85:8080/fids3/public?service=display&dispatcher=public&portal=public.public&operation=refresh&rowcount=10&template=public.displays.dep10-en-1366x768&fillup=true&ffgroup=FF_DEPARTURE&selection=FTYPE%20EQUAL%20TO%20%27D%27%20AND%20DPPUBLIC=%27YES%27&dpid=738674404.3291817673"));
+    ui->webView_2->load(QUrl("http://217.160.92.85:8080/fids3/public?service=display&dispatcher=public&portal=public.public&operation=refresh&rowcount=10&template=public.displays.dep10-1366x768&fillup=true&ffgroup=FF_DEPARTURE&selection=FTYPE%20EQUAL%20TO%20%27D%27%20AND%20DPPUBLIC=%27YES%27&dpid=856499367.2464426134"));
 
     //  EXAMPLE 2
     //  this is a really cool demo showing a map like google maps, where we can see the location of airplanes in real time
