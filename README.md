@@ -11,7 +11,7 @@ Qt5 introduced a new feature which is the possibility to display multiple Qt app
 
 The image with included demos can be built using the recipes found at: https://github.com/giobauermeister/meta-projects/tree/master/recipes-qt or the applications can be cross-compiled using Qt Creator and the source codes available.
 
-This repository also includes a systemd UNIT file for starting the launching script at startup as well as the script which launches both applications. 
+The qt-checkin-kiosk-demo repository includes a systemd UNIT file for starting the launching script at startup as well as the script which launches both applications. 
 
 To launch the applications manually, use enviroment variable with the desired framebuffer(eg. /dev/fb2):
 
