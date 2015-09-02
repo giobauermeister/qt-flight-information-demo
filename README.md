@@ -5,7 +5,7 @@
 
 ## Overview
 
-Qt5 introduced a new feature which is the possibility to display multiple Qt applications in different screens. That feature is very useful in various types of application. With this project we are giving an example of a Flight Information Display System(FIDS) in an ariport. The Flight Information Demo is intendded to work together with the Ckeck-In Kiosk Demo found here: https://github.com/giobauermeister/qt-checkin-kiosk-demo
+Qt5 introduced a new feature which is the possibility to display multiple Qt applications in different screens. That feature is very useful in various types of application. With this project we are giving an example of a Flight Information Display System(FIDS) in an ariport. The Flight Information Demo is intended to work together with the Ckeck-In Kiosk Demo found here: https://github.com/giobauermeister/qt-checkin-kiosk-demo
 
 ## Steps to run the demo
 
