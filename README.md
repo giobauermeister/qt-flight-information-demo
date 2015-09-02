@@ -1,5 +1,5 @@
 ## qt-flight-information-demo
-#Qt5 demo application for simulating a FLight Information Display at an airport
+#Qt5 demo application for simulating a Flight Information Display at an airport
 
 <a href="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQIZzNmZ1VQOFJQOGc"><img src="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQIZzNmZ1VQOFJQOGc"/></a>
 
