@@ -1,8 +1,10 @@
 #include "flightinfo.h"
 #include "ui_flightinfo.h"
-#include <QWebView>
-#include <QtWebKitWidgets>
-#include <QUrl>
+//#include <QWebView>
+//#include <QWebEngineView>
+//#include <QtWebKitWidgets>
+//#include <QtWebEngineWidgets>
+//#include <QUrl>
 
 
     //   this is a simple application which contains a webview element where we can load a website
